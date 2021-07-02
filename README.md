@@ -36,12 +36,13 @@ It is provided by real estate boards of each area. We are using the one for Vanc
 - type "ld" (land)
 
 
-The version we are using is called RETS. There is no official documentation for RETS, though you can find some related documents and manuals online (find one and we put its link here). The only guide I had was a php file by the name of *RETS.PHP* given to us by the vancouver real estate board (by [this link](http://members.rebgv.org/rets/)) and it demonstrates how to connect to their RET and fetch different types of data. I refactored the code and created a more organized version with three php files as you can see in the /fetcher folder. But we need to convert them all into NodeJS first in order to combine it with the pusher tool, and eventually into a full-fledged ExpressJS server.
+The version we are using is called RETS. There is no clear-and-cut get-started tutorial for using RETS, though you can find the ooficial manual at [this link](https://www.reso.org/rets-specifications/) (not sure which RETS version applies to ours, I once used the manual for version 1.7 ...) The only practical guide I had was a php file by the name of *RETS.PHP* given to us by the vancouver real estate board (by [this link](http://members.rebgv.org/rets/)) and it demonstrates how to connect to their RET and fetch different types of data. I refactored the code and created a more organized version with three php files as you can see in the /fetcher folder. But we need to convert them all into NodeJS first in order to combine it with the pusher tool, and eventually into a full-fledged ExpressJS server.
 
 
 Onboarding Task
 ---------------------
 Take a look at the starter file [RETS.PHP](http://members.rebgv.org/rets/RETS.txt). No need to understand its RETS class and all the details, just see how they fetch the data, etc. Then checkout my /fetcher folder (particularly data-fetcher.php) to see how I use the class RETS for fetching MLS data. Get a general sense.
+
 
 Tools
 ------------------------
