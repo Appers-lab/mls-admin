@@ -1,0 +1,360 @@
+FIELD, LONG NAME, TYPE, INTERPRETATION
+SystemID,System ID,Int,
+Type,Type,Small,Lookup
+Area,Area,Small,Lookup
+ListPrice,List Price,Int,Currency
+AddrNumber,Address Number,Character,
+AddrDrctn,Address Direction,Character,
+AddrStreet,Address Street,Character,
+City,City,Character,Lookup
+Province,Province,Character,Lookup
+PostalCode,Postal Code,Character,
+ListDsg1,List Desig Agt 1,Int,
+Firm1Code,List Firm 1 Code,Small,
+ListDsg2,List Desig Agt 2,Int,
+List2PubID,List Firm 2 Code,Small,
+ListDsg3,List Desig Agt 3,Int,
+LstRlt3OID,List Firm 3 Code,Small,
+ListDate,List Date,Date,
+ExpDate,Expiry Date,Date,
+OrigPrice,Original Price,Int,Currency
+LegalDesc,Legal Description,Character,
+SoldDate,Sold Date,Date,
+SoldPrice,Sold Price,Int,Currency
+EntryDate,Entry Date,DateTime,
+LastTrDate,Last Trans Date,DateTime,
+PhotoCount,Photo Count,Int,
+PhotoDate,PhotoTimestamp,DateTime,
+OffMktDate,Search Date,Date,
+MLNo,ML #,Character,
+AddrNumLow,Address Number Low,Character,
+AddrUnit,Address Unit,Character,
+StreetDesg,Street Designation,Int,Lookup
+Address,Address,Character,
+Status,Status,Character,Lookup
+DOM,DOM,Int,
+DOMLS,DOMLS,Int,
+CDOM,Cumulative DOM,Int,
+CDOMLS,Cumulative DOMLS,Int,
+PriPerSQFT,Price Per SQFT,Decimal,
+Bth1Ensuit,Bath1 Ensuite?,Character,Lookup
+Bth2Ensuit,Bath2 Ensuite?,Character,Lookup
+Bth3Ensuit,Bath3 Ensuite?,Character,Lookup
+Bth4Ensuit,Bath4 Ensuite?,Character,Lookup
+Bth5Ensuit,Bath5 Ensuite?,Character,Lookup
+Bth6Ensuit,Bath6 Ensuite?,Character,Lookup
+Bth7Ensuit,Bath7 Ensuite?,Character,Lookup
+BthEnsuit,Bath8 Ensuite?,Character,Lookup
+FxtRemYOrN,Fixtures Removed Y/N,Character,Lookup
+FixtRtOrLs,Fixtures Rntd/Lsd?,Character,Lookup
+Locker,Locker,Character,Lookup
+CounclAprv,Council Apprv,Character,Lookup
+Cats,Cats,Character,Lookup
+Dogs,Dogs,Character,Lookup
+Municiplty,Municipality,Character,Lookup
+RD,Region,Character,Lookup
+SOrA,Sub-Area/Community,Character,Lookup
+BoardID,Short Region Code,Character,Lookup
+Clss,Dwelling Classification,Character,Lookup
+TypeDwel,Type of Dwelling,Character,Lookup
+TitletoLnd,Title to Land,Character,Lookup
+PrDsclYOrN,Property Disclosure,Character,Lookup
+AgeType,Age Type,Character,Lookup
+TaxUtlIncl,Tax Utilities Incl,Character,Lookup
+FloodPln,Flood Plain,Character,Lookup
+Zoning,Zoning,Character,
+Found,Foundation,Character,Lookup
+RainScr,Rain Screen,Character,Lookup
+DrvwyFinsh,Driveway Finish,Character,Lookup
+View,View,Character,Lookup
+RghdInBth,Roughed In Plumbing,Character,Lookup
+Room1Type,Room 1 Type,Character,Lookup
+Room14Dim2,Room 14 Dimension 2,Character,
+Room15Lev,Room 15 Level,Character,Lookup
+Room15Type,Room 15 Type,Character,Lookup
+Room15Dim1,Room 15 Dimension 1,Character,
+Room15Dim2,Room 15 Dimension 2,Character,
+GarageSz,Out Bldgs-Garage Sz,Character,
+DoorHght,Garage Door Ht,Character,
+Room26Lev,Room 26 Level,Character,Lookup
+Room26Type,Room 26 Type,Character,Lookup
+Room26Dim1,Room 26 Dimension 1,Character,
+Room26Dim2,Room 26 Dimension 2,Character,
+Room27Lev,Room 27 Level,Character,Lookup
+Room27Type,Room 27 Type,Character,Lookup
+Room27Dim1,Room 27 Dimension 1,Character,
+Room27Dim2,Room 27 Dimension 2,Character,
+Room28Lev,Room 28 Level,Character,Lookup
+Room28Type,Room 28 Type,Character,Lookup
+Room28Dim1,Room 28 Dimension 1,Character,
+Room28Dim2,Room 28 Dimension 2,Character,
+Bath1Lev,Bath1 Level,Character,Lookup
+Bath2Lev,Bath2 Level,Character,Lookup
+Bath3Lev,Bath3 Level,Character,Lookup
+Bath4Lev,Bath4 Level,Character,Lookup
+Bath5Lev,Bath5 Level,Character,Lookup
+Bath6Lev,Bath6 Level,Character,Lookup
+Bath7Lev,Bath7 Level,Character,Lookup
+Bath8Lev,Bath8 Level,Character,Lookup
+BarnSize,Out Bldgs-Barn Sz,Character,
+WorkshopSz,Out Bldgs-Wrkshp/Shed Sz,Character,
+OutdPoolSz,Out Bldgs-Pool Sz,Character,
+MgtCosPh,Mgmt. Co Phone#,Character,
+CSA,CSA/BCE,Character,
+MgrrNomApr,Mgr/Nominee Approval,Character,
+PropDiscl,Prop Disclosure Statement,Character,
+CmplxrSubd,Complex/Subdivision Name,Character,
+NFinFlrLev,No. Floor Levels,Small,
+NoFP,Fireplaces,Small,
+NoRghdinFP,# Roughed-in FP,Small,
+TotBR,Total Bedrooms,Small,
+BdsInBsmt,Bds In Bsmt,Small,
+BdsNotBsmt,Bds Not In Bsmt,Small,
+NoRms,# Rms,Small,
+NoKitchens,# of Kitchens,Small,
+Bath1NoPcs,Bath1 #Pcs,Small,
+Bath2NoPcs,Bath2 #Pcs,Small,
+Bath3NoPcs,Bath3 #Pcs,Small,
+Bath4NoPcs,Bath4 #Pcs,Small,
+Bath5NoPcs,Bath5 #Pcs,Small,
+Bath6NoPcs,Bath6 #Pcs,Small,
+Bath7NoPcs,Bath7 #Pcs,Small,
+Bath8NoPcs,Bath8 #Pcs,Small,
+HB,Half Baths,Small,
+FB,Full Baths,Small,
+TotBaths,Total Baths,Small,
+BthnsNoPcs,Bath Ensuite # Of Pcs,Small,
+LndLseExpr,Land Lease Expiry Year,Small,
+YrBlt,Approx. Year Built,Small,
+Age,Age,Small,
+YrRenov,Approx.Yr of Renos/Addns,Small,
+ForTaxYr,For Tax Year,Small,
+NCovrdSpcs,Parking Places - Covered,Small,
+TotalPrkng,Parking Places - Total,Small,
+NoStoreys,Storeys in Building,Small,
+UnitsinDev,Units in Development,Int,
+NUntsStrat,Tot Units in Strata Plan,Int,
+Bath9NoPcs,Bath9 #Pcs,Int,
+Bth10NoPcs,Bath10#Pcs,Int,
+Bth11NoPcs,Bath11#Pcs,Int,
+Bth12NoPcs,Bath12#Pcs,Int,
+FlAreaMain,Floor Area Fin - Main Flr,Decimal,
+FlArAbvMn,Floor Area Fin - Abv Main,Decimal,
+FlArBelwMn,Floor Area Fin - BLW Main,Decimal,
+FlAreaBsmt,Floor Area Fin - Basement,Decimal,
+FlArTotFin,Floor Area Fin - Total,Decimal,
+FlArUnfin,Floor Area - Unfinished,Decimal,
+TotFlArea,Floor Area -Grand Total,Decimal,
+FrontageFt,Frontage - Feet,Decimal,
+FrontMetre,Frontage - Metres,Decimal,
+CnclProtDt,Cancel Protection Date,Date,
+ProcDate,Processed Date,Date,
+Bth9Ensuit,Bath9 Ensuite?,Character,Lookup
+Bth10Ensui,Bath10 Ensuite?,Character,Lookup
+Bth11Ensui,Bath11 Ensuite?,Character,Lookup
+Bth12Ensui,Bath12 Ensuite?,Character,Lookup
+PropType,Prop Type,Character,Lookup
+GSTIncl,GST Incl,Character,Lookup
+CrawlHt,Crawl Height,Character,
+FullHt,Full Height,Character,
+PartHt,Part Height,Character,
+MeasType,Measurement Type,Character,Lookup
+Room1Lev,Room 1 Level,Character,Lookup
+Room1Dim1,Room 1 Dimension 1,Character,
+Room1Dim2,Room 1 Dimension 2,Character,
+Room2Lev,Room 2 Level,Character,Lookup
+Room2Type,Room 2 Type,Character,Lookup
+Room2Dim1,Room 2 Dimension 1,Character,
+Room2Dim2,Room 2 Dimension 2,Character,
+Room3Lev,Room 3 Level,Character,Lookup
+Room3Type,Room 3 Type,Character,Lookup
+Room3Dim1,Room 3 Dimension 1,Character,
+Room3Dim2,Room 3 Dimension 2,Character,
+Room4Lev,Room 4 Level,Character,Lookup
+Room4Type,Room 4 Type,Character,Lookup
+Room4Dim1,Room 4 Dimension 1,Character,
+Room4Dim2,Room 4 Dimension 2,Character,
+Room5Lev,Room 5 Level,Character,Lookup
+Room5Type,Room 5 Type,Character,Lookup
+Room5Dim1,Room 5 Dimension 1,Character,
+Room5Dim2,Room 5 Dimension 2,Character,
+Room6Lev,Room 6 Level,Character,Lookup
+Room6Type,Room 6 Type,Character,Lookup
+Room6Dim1,Room 6 Dimension 1,Character,
+Room6Dim2,Room 6 Dimension 2,Character,
+Room7Lev,Room 7 Level,Character,Lookup
+Room7Type,Room 7 Type,Character,Lookup
+Room7Dim1,Room 7 Dimension 1,Character,
+Room7Dim2,Room 7 Dimension 2,Character,
+Room8Lev,Room 8 Level,Character,Lookup
+Room8Type,Room 8 Type,Character,Lookup
+Room8Dim1,Room 8 Dimension 1,Character,
+Room8Dim2,Room 8 Dimension 2,Character,
+Room9Lev,Room 9 Level,Character,Lookup
+Room9Type,Room 9 Type,Character,Lookup
+Room9Dim1,Room 9 Dimension 1,Character,
+Room9Dim2,Room 9 Dimension 2,Character,
+Room10Lev,Room 10 Level,Character,Lookup
+Room10Type,Room 10 Type,Character,Lookup
+Room10Dim1,Room 10 Dimension 1,Character,
+Room10Dim2,Room 10 Dimension 2,Character,
+Room11Lev,Room 11 Level,Character,Lookup
+Room11Type,Room 11 Type,Character,Lookup
+Room11Dim1,Room 11 Dimension 1,Character,
+Room11Dim2,Room 11 Dimension 2,Character,
+Room12Lev,Room 12 Level,Character,Lookup
+Room12Type,Room 12 Type,Character,Lookup
+Room12Dim1,Room 12 Dimension 1,Character,
+Room12Dim2,Room 12 Dimension 2,Character,
+Room13Lev,Room 13 Level,Character,Lookup
+Room13Type,Room 13 Type,Character,Lookup
+Room13Dim1,Room 13 Dimension 1,Character,
+Room13Dim2,Room 13 Dimension 2,Character,
+Room14Lev,Room 14 Level,Character,Lookup
+Room14Type,Room 14 Type,Character,Lookup
+Room14Dim1,Room 14 Dimension 1,Character,
+Room16Lev,Room 16 Level,Character,Lookup
+Room16Type,Room 16 Type,Character,Lookup
+Room16Dim1,Room 16 Dimension 1,Character,
+Room16Dim2,Room 16 Dimension 2,Character,
+Room17Lev,Room 17 Level,Character,Lookup
+Room17Type,Room 17 Type,Character,Lookup
+Room17Dim1,Room 17 Dimension 1,Character,
+Room17Dim2,Room 17 Dimension 2,Character,
+Room18Lev,Room 18 Level,Character,Lookup
+Room18Type,Room 18 Type,Character,Lookup
+Room18Dim1,Room 18 Dimension 1,Character,
+Room18Dim2,Room 18 Dimension 2,Character,
+Room19Lev,Room 19 Level,Character,Lookup
+Room19Type,Room 19 Type,Character,Lookup
+Room19Dim1,Room 19 Dimension 1,Character,
+Room19Dim2,Room 19 Dimension 2,Character,
+Room20Lev,Room 20 Level,Character,Lookup
+Room20Type,Room 20 Type,Character,Lookup
+Room20Dim1,Room 20 Dimension 1,Character,
+Room20Dim2,Room 20 Dimension 2,Character,
+Room21Lev,Room 21 Level,Character,Lookup
+Room21Type,Room 21 Type,Character,Lookup
+Room21Dim1,Room 21 Dimension 1,Character,
+Room21Dim2,Room 21 Dimension 2,Character,
+Room22Lev,Room 22 Level,Character,Lookup
+Room22Type,Room 22 Type,Character,Lookup
+Room22Dim1,Room 22 Dimension 1,Character,
+Room22Dim2,Room 22 Dimension 2,Character,
+Room23Lev,Room 23 Level,Character,Lookup
+Room23Type,Room 23 Type,Character,Lookup
+Room23Dim1,Room 23 Dimension 1,Character,
+Room23Dim2,Room 23 Dimension 2,Character,
+Room24Lev,Room 24 Level,Character,Lookup
+Room24Type,Room 24 Type,Character,Lookup
+Room24Dim1,Room 24 Dimension 1,Character,
+Room24Dim2,Room 24 Dimension 2,Character,
+Room25Lev,Room 25 Level,Character,Lookup
+Room25Type,Room 25 Type,Character,Lookup
+Room25Dim1,Room 25 Dimension 1,Character,
+Room25Dim2,Room 25 Dimension 2,Character,
+MgtCosName,Mgmt. Co Name,Character,
+RestrAge,Restricted Age,Character,Lookup
+NoofPets,# of Pets,Character,Lookup
+NrAmtRntls,# or % of Rentals Allowed,Character,
+Depth,Depth,Character,
+DstSchrBus,Dist to School/School Bus,Character,
+DstPbrRpTr,Distance to Pub/Rapid Tr,Character,
+PID,P.I.D.#,Character,
+VwSpecify,View - Specify,Character,
+FixtRmvd,Fixtures Remvd,Character,
+FixtRntSpc,Fixt Rntd/Lsd - Specify,Character,
+Commission,Commission,Character,
+PrevPrice,Prev Price,Int,
+LotSzSF,Lot Sz (Sq.Ft.),Decimal,
+LotSzA,Lot Sz (Acres),Decimal,
+LotSzSqMtr,Lot Sz (Sq.Mtrs.),Decimal,
+LotSzH,Lot Sz (Hectares),Decimal,
+GrossTax,Gross Taxes,Decimal,
+NotTaxGrbg,Not Incl in Tax - Garbage,Decimal,
+NotTaxWtr,Not Incl in Tax - Water,Decimal,
+NotTaxDykg,Not Incl in Tax - Dyking,Decimal,
+NotTaxSwr,Not Incl in Tax - Sewer,Decimal,
+NotTaxOth,Not Incl in Tax - Other,Decimal,
+StratMtFee,Strata Maint Fee,Decimal,
+PADRntl,PAD Rental,Decimal,
+SPSqft,Sold Price per SqFt,Decimal,
+SPrLPRatio,SP/LP Ratio,Decimal,
+SPrOLPRati,SP/OLP Ratio,Decimal,
+AdjDate,Adjustment Date,Date,
+EffDate,Cancel Effective Date,Date,
+Bath9Lev,Bath9 Level,Character,Lookup
+Bath10Lev,Bath10 Level,Character,Lookup
+Bath11Lev,Bath11 Level,Character,Lookup
+Bath12Lev,Bath 12 Level,Character,Lookup
+VirtlTrURL,Virtual Tour URL,Character,
+URL1,Property Brochure URL,Character,
+DDFInfoURL,DDF More Info URL,Character,
+URL2,Alt Feature Sheet URL,Character,
+StyleofHom,Style of Home,Int,LookupMulti
+SlrsIntrst,Sellers Interest,Int,LookupMulti
+Renovatins,Renovations,Int,LookupMulti
+Suite,Suite,Int,LookupMulti
+BasementAr,Basement Area,Int,LookupMulti
+SrvcsCnctd,Services Connected,Int,LookupMulti
+WaterSpply,Water Supply,Int,LookupMulti
+DrctnlxpRr,Directional Exp Rear Yard,Int,LookupMulti
+Constructn,Construction,Int,LookupMulti
+ExterrFnsh,Exterior Finish,Int,LookupMulti
+Roof,Roof,Int,LookupMulti
+Parking,Parking,Int,LookupMulti
+PrkngAccss,Parking Access,Int,LookupMulti
+SitInflncs,Site Influences,Int,LookupMulti
+OutdoorAre,Outdoor Area,Int,LookupMulti
+FuelHeatng,Fuel/Heating,Int,LookupMulti
+FrplcFldby,Fireplace Fueled by,Int,LookupMulti
+FloorFinsh,Floor Finish,Int,LookupMulti
+FtrsIncldd,Features Included,Int,LookupMulti
+Amenities,Amenities,Int,LookupMulti
+MntFInclds,Maint Fee Includes,Int,LookupMulti
+ByLwRstrct,ByLaw Restrictions,Int,LookupMulti
+DrctnlxpFc,Directional Exp-Faces,Int,LookupMulti
+PublicRmrk,Public Remarks,Character,
+IntRemrks,Internet Remarks,Character,
+LA1LogonNm,LA1Agent Logon Name,Character,
+LA1Phn1Nbr,LA1Agent Phone1 Number,Character,
+LA1Email,LA1Agent Email,Character,
+LA1Url,LA1Agent Url,Character,
+LA1AgntFNm,LA1Agent Full Name,Character,
+LA2LogonNm,LA2Agent Logon Name,Character,
+LA2Phn1Nbr,LA2Agent Phone1 Number,Character,
+LA2Email,LA2Agent Email,Character,
+LA2Url,LA2Agent Url,Character,
+LA2AgntFNm,LA2Agent Full Name,Character,
+LA3LogonNm,LA3Agent Logon Name,Character,
+LA3Phn1Nbr,LA3Agent Phone1 Number,Character,
+LA3Email,LA3Agent Email,Character,
+LA3Url,LA3Agent Url,Character,
+LA3AgntFNm,LA3Agent Full Name,Character,
+LO1OfcAbrv,LO1Office Abbreviation,Character,
+LO1OfcName,LO1Office Name,Character,
+LO1Phn1Nbr,LO1Office Phone1 Number,Character,
+LO1Url,LO1Office Url,Character,
+LO2OfcAbrv,LO2Office Abbreviation,Character,
+LO2OfcName,LO2Office Name,Character,
+LO2Phn1Nbr,LO2Office Phone1 Number,Character,
+LO2Url,LO2Office Url,Character,
+LO3OfcAbrv,LO3Office Abbreviation,Character,
+LO3OfcName,LO3Office Name,Character,
+LO3Phn1Nbr,LO3Office Phone1 Number,Character,
+LO3Url,LO3Office Url,Character,
+SO1OfcAbrv,SO1Office Abbreviation,Character,
+SO1OfcName,SO1Office Name,Character,
+SO2OfcAbrv,SO2Office Abbreviation,Character,
+SO2OfcName,SO2Office Name,Character,
+SO3OfcAbrv,SO3Office Abbreviation,Character,
+SO3OfcName,SO3Office Name,Character,
+VOWIncl,Pub Listing on Internet,Character,Lookup
+VOWAddr,Display Addr on Internet,Character,Lookup
+INOK,Broker Reciprocity,Character,Lookup
+RoomLev,Room 1 Level,Character,Lookup
+RoomType,Room 1 Type,Character,Lookup
+RoomDim1,Room 1 Dimension 1,Character,
+RoomDim2,Room 1 Dimension 2,Character,
+BathLev,Bath1 Level,Character,Lookup
+BathNoPcs,Bath1 #Pcs,Small,

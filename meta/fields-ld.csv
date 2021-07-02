@@ -1,0 +1,145 @@
+FIELD, LONG NAME, TYPE, INTERPRETATION
+SystemID,System ID,Int,
+Type,Type,Small,Lookup
+Area,Area,Small,Lookup
+ListPrice,List Price,Int,Currency
+AddrNumber,Address Number,Character,
+AddrDrctn,Address Direction,Character,
+AddrStreet,Address Street,Character,
+City,City,Character,Lookup
+Province,Province,Character,Lookup
+PostalCode,Postal Code,Character,
+ListDsg1,List Desig Agt 1,Int,
+Firm1Code,List Firm 1 Code,Small,
+ListDsg2,List Desig Agt 2,Int,
+List2PubID,List Firm 2 Code,Small,
+ListDsg3,List Desig Agt 3,Int,
+LstRlt3OID,List Firm 3 Code,Small,
+ListDate,List Date,Date,
+ExpDate,Expiry Date,Date,
+OrigPrice,Original Price,Int,Currency
+LegalDesc,Legal Description,Character,
+SoldDate,Sold Date,Date,
+SoldPrice,Sold Price,Int,Currency
+EntryDate,Entry Date,DateTime,
+LastTrDate,Last Trans Date,DateTime,
+PhotoCount,Photo Count,Int,
+PhotoDate,PhotoTimestamp,DateTime,
+OffMktDate,Search Date,Date,
+MLNo,ML #,Character,
+AddrNumLow,Address Number Low,Character,
+AddrUnit,Address Unit,Character,
+StreetDesg,Street Designation,Int,Lookup
+Address,Address,Character,
+Status,Status,Character,Lookup
+DOM,DOM,Int,
+DOMLS,DOMLS,Int,
+CDOM,Cumulative DOM,Int,
+CDOMLS,Cumulative DOMLS,Int,
+PriPerSQFT,Price Per SQFT,Decimal,
+Municiplty,Municipality,Character,Lookup
+RD,Region,Character,Lookup
+SOrA,Sub-Area/Community,Character,Lookup
+BoardID,Short Region Code,Character,Lookup
+TitletoLnd,Title to Land,Character,Lookup
+PrDsclYOrN,Property Disclosure,Character,Lookup
+TaxUtlIncl,Tax Utilities Incl,Character,Lookup
+FloodPln,Flood Plain,Character,Lookup
+Zoning,Zoning,Character,
+View,View,Character,Lookup
+MgrrNomApr,Mgr/Nominee Approval,Character,
+PropDiscl,Prop Disclosure Statement,Character,
+CmplxrSubd,Complex/Subdivision Name,Character,
+LndLseExpr,Land Lease Expiry Year,Small,
+ForTaxYr,For Tax Year,Small,
+FrontageFt,Frontage - Feet,Decimal,
+FrontMetre,Frontage - Metres,Decimal,
+PercTestDt,Perc Test Date,Date,
+CnclProtDt,Cancel Protection Date,Date,
+ProcDate,Processed Date,Date,
+Rezone,Potential for Rezoning?,Character,Lookup
+BldgPrmtAp,Bldg Permit Approved?,Character,Lookup
+SktchAtch,Sketch Attached?,Character,Lookup
+InfoPkgAvl,Info Package Available?,Character,Lookup
+Trees,Trees(Logged in last 2yr),Character,Lookup
+PropType,Prop Type,Character,Lookup
+GSTIncl,GST Incl,Character,
+MeasType,Measurement Type,Character,Lookup
+DevPermit,Development Permit?,Character,Lookup
+LandUse,Permitted Land Use,Character,Lookup
+ALR,Prop in Lnd Reserve?(ALR),Character,Lookup
+SanitrySwr,Sanitary Sewer,Character,Lookup
+StormSwr,Storm Sewer,Character,Lookup
+Electricty,Electricity,Character,Lookup
+NaturalGas,Natural Gas,Character,Lookup
+PhoneServ,Telephone Service,Character,Lookup
+Prospectus,Prospectus,Character,Lookup
+BldgPlans,Building Plans,Character,Lookup
+PercTstAvl,Perc Test Available?,Character,Lookup
+SignonProp,Sign on Property?,Character,
+Fencing,Fencing,Character,Lookup
+AccestoPrp,Access to Property,Character,Lookup
+Depth,Depth,Character,
+WtrSupply,Water Supply,Character,Lookup
+PID,P.I.D.#,Character,
+VwSpecify,View - Specify,Character,
+Commission,Commission,Character,
+PrevPrice,Prev Price,Int,
+LotSzSF,Lot Sz (Sq.Ft.),Decimal,
+LotSzA,Lot Sz (Acres),Decimal,
+LotSzSqMtr,Lot Sz (Sq.Mtrs.),Decimal,
+LotSzH,Lot Sz (Hectares),Decimal,
+GrossTax,Gross Taxes,Decimal,
+SPSqft,Sold Price per SqFt,Decimal,
+SPrLPRatio,SP/LP Ratio,Decimal,
+SPrOLPRati,SP/OLP Ratio,Decimal,
+AdjDate,Adjustment Date,Date,
+EffDate,Cancel Effective Date,Date,
+VirtlTrURL,Virtual Tour URL,Character,
+URL1,Property Brochure URL,Character,
+DDFInfoURL,DDF More Info URL,Character,
+URL2,Alt Feature Sheet URL,Character,
+FrntDrxpsr,Front Dir Exposure,Int,LookupMulti
+SlrsIntrst,Sellers Interest,Int,LookupMulti
+CableServc,Cable Service,Int,LookupMulti
+PrkngAccss,Parking Access,Int,LookupMulti
+Restrictns,Restrictions,Int,LookupMulti
+SitInflncs,Site Influences,Int,LookupMulti
+PublicRmrk,Public Remarks,Character,
+IntRemrks,Internet Remarks,Character,
+LA1LogonNm,LA1Agent Logon Name,Character,
+LA1Phn1Nbr,LA1Agent Phone1 Number,Character,
+LA1Email,LA1Agent Email,Character,
+LA1Url,LA1Agent Url,Character,
+LA1AgntFNm,LA1Agent Full Name,Character,
+LA2LogonNm,LA2Agent Logon Name,Character,
+LA2Phn1Nbr,LA2Agent Phone1 Number,Character,
+LA2Email,LA2Agent Email,Character,
+LA2Url,LA2Agent Url,Character,
+LA2AgntFNm,LA2Agent Full Name,Character,
+LA3LogonNm,LA3Agent Logon Name,Character,
+LA3Phn1Nbr,LA3Agent Phone1 Number,Character,
+LA3Email,LA3Agent Email,Character,
+LA3Url,LA3Agent Url,Character,
+LA3AgntFNm,LA3Agent Full Name,Character,
+LO1OfcAbrv,LO1Office Abbreviation,Character,
+LO1OfcName,LO1Office Name,Character,
+LO1Phn1Nbr,LO1Office Phone1 Number,Character,
+LO1Url,LO1Office Url,Character,
+LO2OfcAbrv,LO2Office Abbreviation,Character,
+LO2OfcName,LO2Office Name,Character,
+LO2Phn1Nbr,LO2Office Phone1 Number,Character,
+LO2Url,LO2Office Url,Character,
+LO3OfcAbrv,LO3Office Abbreviation,Character,
+LO3OfcName,LO3Office Name,Character,
+LO3Phn1Nbr,LO3Office Phone1 Number,Character,
+LO3Url,LO3Office Url,Character,
+SO1OfcAbrv,SO1Office Abbreviation,Character,
+SO1OfcName,SO1Office Name,Character,
+SO2OfcAbrv,SO2Office Abbreviation,Character,
+SO2OfcName,SO2Office Name,Character,
+SO3OfcAbrv,SO3Office Abbreviation,Character,
+SO3OfcName,SO3Office Name,Character,
+VOWIncl,Pub Listing on Internet,Character,Lookup
+VOWAddr,Display Addr on Internet,Character,Lookup
+INOK,Broker Reciprocity,Character,Lookup

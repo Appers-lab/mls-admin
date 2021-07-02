@@ -1,0 +1,1502 @@
+key, en
+Type:23, House/Single Family
+Type:24, Duplex
+Type:25, Triplex
+Type:26, Fourplex
+Type:27, Mixed
+Type:28, Recreational
+Type:29, Other
+Area:1, Bowen Island
+Area:2, Burnaby East
+Area:3, Burnaby North
+Area:4, Burnaby South
+Area:5, Coquitlam
+Area:6, Islands-Van. & Gulf
+Area:7, Ladner
+Area:8, Maple Ridge
+Area:9, North Vancouver
+Area:10, New Westminster
+Area:11, Pemberton
+Area:12, Pitt Meadows
+Area:13, Port Moody
+Area:14, Port Coquitlam
+Area:15, Richmond
+Area:16, Sunshine Coast
+Area:17, Squamish
+Area:18, Tsawwassen
+Area:19, Vancouver East
+Area:20, Vancouver West
+Area:21, Whistler
+Area:22, West Vancouver
+Area:23, N. Delta
+Area:24, North Surrey
+Area:25, Surrey
+Area:26, Cloverdale
+Area:27, South Surrey White Rock
+Area:28, Langley
+Area:29, Abbotsford
+Area:30, Mission
+Area:31, FVREB Out of Town
+Area:32, Out of Town
+Area:33, 100 Mile House (Zone 10)
+Area:34, Williams Lake (Zone 27)
+Area:35, Quesnel (Zone 28)
+Area:36, Prince Rupert (Zone 52)
+Area:37, Houston (Zone 53)
+Area:38, Smithers And Area (Zone 54)
+Area:39, Burns Lake (Zone 55)
+Area:40, Vanderhoof And Area (Zone 56)
+Area:41, Fort St. James (Zone 57)
+Area:42, Fort St. John (Zone 60)
+Area:43, Fort Nelson (Zone 64)
+Area:44, Mackenzie (Zone 69)
+Area:45, PG City West (Zone 71)
+Area:46, PG City Central (Zone 72)
+Area:47, PG City North (Zone 73)
+Area:48, PG City South (Zone 74)
+Area:49, PG City South East (Zone 75)
+Area:50, PG Rural North (Zone 76)
+Area:51, PG Rural West (Zone 77)
+Area:52, PG Rural South (Zone 78)
+Area:53, PG Rural East (Zone 80)
+Area:54, Robson Valley (Zone 81)
+Area:55, Terrace (Zone 88)
+Area:56, Kitimat (Zone 89)
+Area:57, BCNREB Out of Area
+Area:58, FRV Fake Area
+Area:59, VAN Fake Area
+Area:60, CHI Fake Area
+Area:61, BCN Fake Area
+Area:62, Agassiz
+Area:63, Harrison Hot Springs
+Area:64, Harrison Mills / Mt Woodside
+Area:65, Hope
+Area:66, Rosedale
+Area:67, Cultus Lake
+Area:68, Sardis
+Area:69, Yarrow
+Area:70, Chilliwack
+Area:71, Other CADREB
+Area:72, NOT IN USE
+City:100 MILE, 100 Mile House
+City:100 MILE R, 100 Mile House - Rural
+City:100 MILE T, 100 Mile House - Town
+City:100 MILE W, 100 Mile House - West
+City:103 MILE H, 103 Mile House
+City:108 MILE, 108 Mile Ranch
+City:150 MILE, 150 Mile House
+City:70 MILE, 70 Mile House
+City:ABBOTSFORD, Abbotsford
+City:ABERDEEN, Aberdeen
+City:AGASSIZ, Agassiz
+City:AIRPORT, Airport
+City:ANMORE, Anmore
+City:ASSMAN, Assman
+City:BCR INDUST, BCR Industrial Site
+City:BEAR, Bear Lake
+City:BEAVERLEY, Beaverley
+City:BEDNESTI, Bednesti
+City:BELCARRA, Belcarra
+City:BELLACOOLA, Bella Coola
+City:BIRCHWOOD, Birchwood
+City:BIRKEN, Birken
+City:BLACKWATER, Blackwater
+City:BOSTON, Boston Bar
+City:BOSTON BAR, Boston Bar / Lytton
+City:BOUCHIE LA, Bouchie Lake
+City:BOWEN, Bowen Island
+City:BRACKENDAL, Brackendale
+City:BRIDGE, Bridge Lake
+City:BRITANNIA, Britannia Beach
+City:BUCKHORN, Buckhorn
+City:BURNABY, Burnaby
+City:BURNS, Burns Lake
+City:BURNSLK E, Burns Lake - Rural East
+City:BURNSLK N, Burns Lake - Rural North
+City:BURNSLK S, Burns Lake - Rural South
+City:BURNSLK TW, Burns Lake - Town
+City:BURNSLK W, Burns Lake - Rural West
+City:CADREB OTH, Cadreb Other
+City:CANIM, Canim Lake
+City:CARTER LIG, Carter Light
+City:CENTRAL, Central
+City:CHARELLA, Charella / Starlane
+City:CHARLIE, Charlie Lake
+City:CHIEF LAKE, Chief Lake
+City:CHILLIWACK, Chilliwack
+City:CLUCULZ LA, Cluculz Lake
+City:COLUMBIA, Columbia Valley
+City:CONNAUGHT, Connaught
+City:COQUITLAM, Coquitlam
+City:CRANBROOK, Cranbrook Hill
+City:CRESCENTS, Crescents
+City:CULTUS, Cultus Lake
+City:D'ARCY, D'Arcy
+City:DANSON, Danson
+City:DEKA LAKE, Deka Lake / Sulphurous / Hathaway Lakes
+City:DELTA, Delta
+City:DEVINE, Devine
+City:DOME CREEK, Dome Creek
+City:DOWNTOWN, Downtown
+City:EAST END, East End
+City:EDGEWOOD T, Edgewood Terrace
+City:EGMONT, Egmont
+City:EMERALD, Emerald
+City:ESLERDOGC, Esler / Dog Creek
+City:FIVECOVES, Five Coves
+City:FOOTHILLS, Foothills
+City:FOREST, Forest Grove
+City:FRASER, Fraser Lake
+City:FRASERVIEW, Fraserview
+City:FT FRASER, Fort Fraser
+City:FT NEL RMT, Fort Nelson - Remote
+City:FT NEL RUR, Fort Nelson - Rural
+City:FT NEL TWN, Fort Nelson - Town
+City:FT NELSON, Fort Nelson
+City:FT ST JOHN, Fort St. John
+City:FT STJAM R, Fort St. James - Rural
+City:FT STJAM T, Fort St. James - Town
+City:FT STJAMES, Fort St. James
+City:FT STJN NE, Fort St. John - City NE
+City:FT STJN NW, Fort St. John - City NW
+City:FT STJN RE, Fort St . John - Rural E 100th
+City:FT STJN RW, Fort St. John - Rural W 100th
+City:FT STJN SE, Fort St. John - City SE
+City:FT STJN SW, Fort St. John - City SW
+City:FURRY, Furry Creek
+City:GABRIOLA, Gabriola Island
+City:GALIANO, Galiano Island
+City:GAMBIER, Gambier Island
+City:GARDEN, Garden Bay
+City:GARIBALDI, Garibaldi Highlands
+City:GAUTHIER, Gauthier
+City:GIBSONS, Gibsons
+City:GISCOME, Giscome
+City:GRANISLE, Granisle
+City:GRANTHAMS, Granthams Landing
+City:HALDI, Haldi
+City:HALFMOON, Halfmoon Bay
+City:HANSARD, Hansard
+City:HARPER VAL, Harper Valley
+City:HARRISONHS, Harrison Hot Springs
+City:HARRISONMI, Harrison Mills
+City:HART HIGHL, Hart Highlands
+City:HART HIGHW, Hart Highway
+City:HAZELTON, Hazelton
+City:HERITAGE, Heritage
+City:HIGHGLEN, Highglen
+City:HIGHLAND P, Highland Park
+City:HIXON, Hixon
+City:HOBBY RANC, Hobby Ranches
+City:HOPE, Hope
+City:HOPKINS, Hopkins Landing
+City:HORSE LAKE, Horse Lake
+City:HORSEFLY, Horsefly
+City:HOUSTON, Houston
+City:HOUSTONRUR, Houston - Rural
+City:HOUSTONTWN, Houston - Town
+City:HUDSONS, Hudsons Hope
+City:INGALA, Ingala
+City:IRVINES, Irvines Landing
+City:ISLE PIERR, Isle Pierre
+City:JENSEN, Jensen
+City:KEATS, Keats Island
+City:KITIMAT, Kitimat
+City:KITWANGA, Kitwanga
+City:LACLAHACHE, Lac La Hache
+City:LADNER, Ladner
+City:LAFRENIERE, Lafreniere
+City:LAIDLAW, Laidlaw
+City:LAKELSE, Lakelse Lake
+City:LAKESIDE R, Lakeside Rural
+City:LAKEWOOD, Lakewood
+City:LANGDALE, Langdale
+City:LANGLEY, Langley
+City:LINDELL, Lindell Beach
+City:LIONS BAY, Lions Bay
+City:LONE BUTTE, Lone Butte
+City:LOWER COLL, Lower College
+City:LOWER MUD, Lower Mud
+City:MACKEN RUR, Mackenzie - Rural
+City:MACKEN TWN, Mackenzie - Town
+City:MACKENZIE, Mackenzie
+City:MADEIRA, Madeira Park
+City:MAPLERIDGE, Maple Ridge
+City:MASSET, Masset
+City:MAYNE, Mayne Island
+City:MCBRIDE, McBride
+City:MCBRIDE RW, McBride - Rural West
+City:MCBRIDE TW, McBride - Town
+City:MCLEESE, McLeese Lake
+City:MCLEOD, McLeod Lake
+City:MILLAR ADD, Millar Addition
+City:MISSION, Mission
+City:MIWORTH, Miworth
+City:MOUNT ALDE, Mount Alder
+City:MT CURRIE, Mount Currie
+City:MTWOODSIDE, Mt Woodside
+City:NECHAKO BE, Nechako Bench
+City:NECHAKO RI, Nechako Ridge
+City:NECHAKO VI, Nechako View
+City:NELSON, Nelson Island
+City:NESS LAKE, Ness Lake
+City:NEW HAZEL, New Hazelton
+City:NEW WEST, New Westminster
+City:NO CITY, No City Value
+City:NORTH BLAC, North Blackburn
+City:NORTH KELL, North Kelly
+City:NORTH MEAD, North Meadows
+City:NORTH VANC, North Vancouver
+City:NUKKO LAKE, Nukko Lake
+City:OLD SUMMIT, Old Summit Lake Road
+City:PARKRIDGE, Parkridge
+City:PEDEN HILL, Peden Hill
+City:PEMBERTON, Pemberton
+City:PENDER HRB, Pender Harbour
+City:PENDER ISL, Pender Island
+City:PERRY, Perry
+City:PINECONE, Pinecone
+City:PINEVIEW, Pineview
+City:PINEWOOD, Pinewood
+City:PITT, Pitt Meadows
+City:PORT CLEM, Port Clements
+City:PORT COQ, Port Coquitlam
+City:PORT EDWRD, Port Edward
+City:PORT MEL, Port Mellon
+City:PORT MOODY, Port Moody
+City:PRINCE GRG, Prince George
+City:PRINCE RUP, Prince Rupert
+City:PRNCRUPCTY, Prince Rupert City
+City:PRNCRUPRUR, Prince Rupert Rural
+City:PURDEN, Purden
+City:QUEEN CHAR, Queen Charlotte City
+City:QUEENCHARR, Queen Charlotte - Rural
+City:QUESNEL, Quesnel
+City:QUESNEL RN, Quesnel - Rural North
+City:QUESNEL RS, Quesnel - Rural South
+City:QUESNEL RW, Quesnel - Rural West
+City:QUESNEL TN, Quesnel - Town
+City:QUINSON, Quinson
+City:RED BLUFF, Red Bluff / Dragon Lake
+City:RED ROCK, Red Rock / Stoner
+City:REID LAKE, Reid Lake
+City:RICHMOND, Richmond
+City:ROBERTS, Roberts Creek
+City:ROSEDALE, Rosedale
+City:RUBY, Ruby Lake
+City:RYDER LAKE, Ryder Lake
+City:SALMON, Salmon Valley
+City:SALTSPRING, Salt Spring Island
+City:SARDIS, Sardis
+City:SARDIS CRV, Sardis - Chwk River Valley
+City:SARDIS GRN, Sardis - Greendale
+City:SATURNA, Saturna Island
+City:SECHELT, Sechelt
+City:SEYMOUR, Seymour
+City:SHELLEY, Shelley
+City:SINTICH, Sintich
+City:SMITHERS, Smithers
+City:SMITHERS R, Smithers - Rural
+City:SMITHERS T, Smithers - Town
+City:SOAMES, Soames Point
+City:SOUTH BLAC, South Blackburn
+City:SOUTH FORT, South Fort George
+City:SOUTH FRAN, South Francois
+City:SOUTH PEAC, South Peace
+City:SPRUCELAND, Spruceland
+City:SQUAMISH, Squamish
+City:ST. LAWREN, St. Lawrence Heights
+City:STEWART, Stewart
+City:STWRT CAS, Stewart / Cassiar
+City:SUMMIT, Summit Lake
+City:SUNSHINE V, Sunshine Valley
+City:SURREY, Surrey
+City:TABOR LAKE, Tabor Lake
+City:TAYLOR, Taylor
+City:TELKWA, Telkwa
+City:TERRACE, Terrace
+City:TERRACE C, Terrace - City
+City:TERRACE NR, Terrace - Northwest/Rosswood
+City:TERRACE RE, Terrace - Rural East / Cedarvale
+City:TERRACE RS, Terrace - Rural Southwest
+City:THORNHILL, Thornhill
+City:TOPLEY, Topley
+City:TSAWW, Tsawwassen
+City:UBC, University Endowment Lands
+City:UPPER COLL, Upper College Heights
+City:UPPER FRAS, Upper Fraser
+City:UPPER MUD, Upper Mud
+City:VALEMNT RS, Valemount - Rural South
+City:VALEMNT RW, Valemount - Rural West
+City:VALEMNT TN, Valemount - Town
+City:VALEMOUNT, Valemount
+City:VALLEYVIEW, Valleyview
+City:VAN BOW, Van Bow
+City:VANCOUVER, Vancouver
+City:VANDERHF R, Vanderhoof - Rural
+City:VANDERHF T, Vanderhoof - Town
+City:VANDERHOOF, Vanderhoof
+City:VLA, VLA
+City:WELLS, Wells
+City:WELLS BARK, Wells / Barkerville
+City:WEST AUSTI, West Austin
+City:WEST VANC, West Vancouver
+City:WESTERN AC, Western Acres
+City:WESTWOOD, Westwood
+City:WHISTLER, Whistler
+City:WHITE ROCK, White Rock
+City:WILLIAMS, Williams Lake
+City:WILLIAMSC, Williams Lake - City
+City:WILLIAMSRE, Williams Lake - Rural East
+City:WILLIAMSRN, Williams Lake - Rural North
+City:WILLIAMSRS, Williams Lake - Rural South
+City:WILLIAMSRW, Williams Lake - Rural West
+City:WILLOW, Willow River
+City:WILSON, Wilson Creek
+City:YALE, Yale
+City:YARROW, Yarrow
+City:ATLIN, Atlin
+City:LIKELY, Likely
+Province:_, _
+Province:AB, AB
+Province:AK, AK
+Province:AL, AL
+Province:AR, AR
+Province:AZ, AZ
+Province:BC, BC
+Province:CA, CA
+Province:CO, CO
+Province:CT, CT
+Province:DC, DC
+Province:DE, DE
+Province:FL, FL
+Province:GA, GA
+Province:HI, HI
+Province:IA, IA
+Province:ID, ID
+Province:IL, IL
+Province:IN, IN
+Province:KS, KS
+Province:KY, KY
+Province:LA, LA
+Province:MA, MA
+Province:MB, MB
+Province:MD, MD
+Province:ME, ME
+Province:MI, MI
+Province:MN, MN
+Province:MO, MO
+Province:MS, MS
+Province:MT, MT
+Province:NB, NB
+Province:NC, NC
+Province:ND, ND
+Province:NE, NE
+Province:NH, NH
+Province:NJ, NJ
+Province:NL, NL
+Province:NM, NM
+Province:NS, NS
+Province:NT, NT
+Province:NU, NU
+Province:NV, NV
+Province:NY, NY
+Province:OH, OH
+Province:OK, OK
+Province:ON, ON
+Province:OR, OR
+Province:PA, PA
+Province:PE, PE
+Province:QC, QC
+Province:RI, RI
+Province:SC, SC
+Province:SD, SD
+Province:SK, SK
+Province:TN, TN
+Province:TX, TX
+Province:UT, UT
+Province:VA, VA
+Province:VT, VT
+Province:WA, WA
+Province:WI, WI
+Province:WV, WV
+Province:WY, WY
+Province:YT, YT
+StreetDesg:1, ALLEY
+StreetDesg:2, ACRES
+StreetDesg:4, AVENUE
+StreetDesg:6, BEACH
+StreetDesg:7, BEND
+StreetDesg:11, BOULEVARD
+StreetDesg:18, BYPASS
+StreetDesg:21, CAPE
+StreetDesg:23, CENTRE
+StreetDesg:25, CIRCLE
+StreetDesg:30, COMMON
+StreetDesg:35, COURT
+StreetDesg:37, COVE
+StreetDesg:40, CRESCENT
+StreetDesg:42, CROSSING
+StreetDesg:49, DRIVE
+StreetDesg:52, ESTATES
+StreetDesg:70, FREEWAY
+StreetDesg:71, GARDEN
+StreetDesg:74, GLEN
+StreetDesg:77, GROVE
+StreetDesg:80, HAVEN
+StreetDesg:81, HEIGHTS
+StreetDesg:82, HIGHWAY
+StreetDesg:83, HILL
+StreetDesg:84, HOLLOW
+StreetDesg:85, HEATH
+StreetDesg:86, ISLAND
+StreetDesg:92, KNOLL
+StreetDesg:94, LAKE
+StreetDesg:97, LANDING
+StreetDesg:98, LANE
+StreetDesg:100, LINK
+StreetDesg:105, LOOP
+StreetDesg:106, MALL
+StreetDesg:107, MANOR
+StreetDesg:110, MEADOWS
+StreetDesg:111, MEWS
+StreetDesg:116, MOUNT
+StreetDesg:123, PARK
+StreetDesg:125, PARKWAY
+StreetDesg:127, PASS
+StreetDesg:128, PASSAGE
+StreetDesg:129, PATH
+StreetDesg:133, PLACE
+StreetDesg:136, PLAZA
+StreetDesg:137, POINT
+StreetDesg:138, POND
+StreetDesg:144, RANCH
+StreetDesg:148, RIDGE
+StreetDesg:150, RIVER
+StreetDesg:151, ROAD
+StreetDesg:154, ROW
+StreetDesg:160, SHORES
+StreetDesg:164, SQUARE
+StreetDesg:169, STREET
+StreetDesg:171, SUMMIT
+StreetDesg:172, TERRACE
+StreetDesg:177, TRAIL
+StreetDesg:180, VILA
+StreetDesg:181, VILLA
+StreetDesg:187, VIEW
+StreetDesg:189, VILLAGE
+StreetDesg:192, VISTA
+StreetDesg:193, WALK
+StreetDesg:196, WAY
+StreetDesg:200, WOOD
+StreetDesg:201, QUARRY
+StreetDesg:206, BAY
+StreetDesg:207, CLOSE
+StreetDesg:208, CREEK
+StreetDesg:209, DIVERSION
+StreetDesg:210, ESPLANADE
+StreetDesg:211, GATE
+StreetDesg:212, LOOKOUT
+StreetDesg:213, PARADE
+StreetDesg:214, PEAK
+StreetDesg:215, PROMENADE
+StreetDesg:216, QUAY
+StreetDesg:217, RISE
+StreetDesg:218, WYND
+StreetDesg:220, NONE
+StreetDesg:221, GREEN
+StreetDesg:222, CORRAL
+Status:1_0, Active
+Status:1_1, For Approval
+Status:2_0, Sold
+Status:2_1, Collapsed
+Status:4_0, Expired
+Status:5_0, Hold all Action
+Status:5_1, Terminated
+Status:5_2, Cancel Protected
+Status:6_0, Rented
+Status:6_1, Leased
+Municiplty:A1, Port Alberni - Rural
+Municiplty:AB, Abbotsford
+Municiplty:AC, Terrace
+Municiplty:AN, Anmore
+Municiplty:AR, Ascroft - Rural
+Municiplty:AS, Ashcroft
+Municiplty:BC, Bella Coola Rural
+Municiplty:BI, Bowen Island
+Municiplty:BL, Burns Lake
+Municiplty:BU, Burnaby
+Municiplty:C1, Chase
+Municiplty:C2, Cranbrook Lakes
+Municiplty:C3, Creston
+Municiplty:C4, Cranbrook - Rural
+Municiplty:C5, Chetwynd
+Municiplty:C6, Cowichan - Rural
+Municiplty:CA, Castlegar
+Municiplty:CB, Castlegar - Rural
+Municiplty:CC, Cache Creek
+Municiplty:CF, Village of Canal Flats
+Municiplty:CH, Chilliwack
+Municiplty:CI, Campbell River
+Municiplty:CK, Cranbrook
+Municiplty:CL, Clinton
+Municiplty:CN, North Vancouver
+Municiplty:CO, Comox
+Municiplty:CQ, Coquitlam
+Municiplty:CR, Chilliwack - Rural
+Municiplty:CS, Creston - Rural
+Municiplty:CT, Courtenay
+Municiplty:CU, Cumberland
+Municiplty:DC, Dawson Creek
+Municiplty:DE, Delta
+Municiplty:DR, Duncan - Rural
+Municiplty:DU, Duncan
+Municiplty:DW, Wells
+Municiplty:EL, Elkford
+Municiplty:ES, Esquimalt
+Municiplty:F1, Fernie Rural
+Municiplty:FE, Fernie
+Municiplty:FL, Fraser Lake
+Municiplty:FN, Fort Nelson
+Municiplty:FR, Fruitvale
+Municiplty:G1, Gulf Islands
+Municiplty:G2, Greenwood
+Municiplty:G3, Granisle
+Municiplty:GF, Grand Forks
+Municiplty:GI, Gibsons
+Municiplty:GO, Golden
+Municiplty:GR, Gold River (including Rural)
+Municiplty:HA, Hazelton
+Municiplty:HH, Hudsons Hope
+Municiplty:HM, 100 Mile House
+Municiplty:HO, Houston
+Municiplty:HR, Houston Rural
+Municiplty:IG, Golden Rural
+Municiplty:IN, Invermere
+Municiplty:IR, Invermere - Rural
+Municiplty:JA, Fort St James
+Municiplty:K1, Kaslo
+Municiplty:K2, Kimberley
+Municiplty:KA, Kamloops
+Municiplty:KE, Keremeos
+Municiplty:KI, Kitimat
+Municiplty:KR, Kamloops Rural
+Municiplty:L1, Ladysmith
+Municiplty:L8, Lantzville (SD 68)
+Municiplty:L9, Lantzville (SD 69)
+Municiplty:LA, Langley
+Municiplty:LB, Lions Bay
+Municiplty:LC, Lake Cowichan
+Municiplty:LI, Lillooet
+Municiplty:LL, Logan Lake
+Municiplty:LR, Lillooet Rural
+Municiplty:LY, Lytton
+Municiplty:M1, Midway
+Municiplty:M2, Merritt - Rural
+Municiplty:MA, Masset
+Municiplty:MB, Mcbride
+Municiplty:ME, Merritt
+Municiplty:MI, Mission
+Municiplty:MK, Mackenzie
+Municiplty:MO, Montrose
+Municiplty:MR, Maple Ridge
+Municiplty:MU, Musqueam Indian Band
+Municiplty:N1, Nakusp
+Municiplty:N2, Nelson Rural
+Municiplty:N3, Dawson Creek/Fort Nelson Rural
+Municiplty:NA, Nanaimo
+Municiplty:NC, North Cowichan
+Municiplty:ND, New Denver
+Municiplty:NE, Nelson
+Municiplty:NH, New Hazelton
+Municiplty:NI, Port Hardy/North Island Rural
+Municiplty:NP, Dawson Creek Rural/North Peace
+Municiplty:NR, Nanaimo - Rural
+Municiplty:NS, Nakusp - Rural
+Municiplty:NV, North Vancouver District
+Municiplty:NW, New Westminster
+Municiplty:OB, Oak Bay
+Municiplty:OL, Oliver
+Municiplty:ON, Okanagan
+Municiplty:OP, Out of Province
+Municiplty:OS, Osoyoos
+Municiplty:P1, Pemberton
+Municiplty:P2, Port Edward
+Municiplty:P3, Princeton
+Municiplty:P4, Powell River
+Municiplty:PA, Port Alberni
+Municiplty:PC, Pouce Coupe
+Municiplty:PE, Penticton
+Municiplty:PG, City of Prince George
+Municiplty:PI, Pitt Meadows
+Municiplty:PK, Parksville
+Municiplty:PM, Port Moody
+Municiplty:PQ, Port Coquitlam
+Municiplty:PR, Prince George Rural
+Municiplty:PT, Prince Rupert
+Municiplty:QB, Qualicum Beach
+Municiplty:QC, Queen Charlotte City - Rural
+Municiplty:QR, Quesnel Rural
+Municiplty:QU, Quesnel
+Municiplty:R1, Rossland
+Municiplty:R2, Parksville/Qualicum - Rural
+Municiplty:R3, Campbell River - Rural
+Municiplty:RC, Rock Creek
+Municiplty:RE, Revelstoke
+Municiplty:RG, Grand Forks - Rural
+Municiplty:RH, Radium
+Municiplty:RI, Richmond
+Municiplty:RO, Oliver - Rural
+Municiplty:RP, Penticton - Rural
+Municiplty:RU, Comox - North Rural
+Municiplty:S1, Salmo
+Municiplty:S2, Silverton
+Municiplty:S3, Sparwood
+Municiplty:S4, Smithers Rural
+Municiplty:S5, Salmon Arm
+Municiplty:S6, Summerland
+Municiplty:SA, Saanich
+Municiplty:SB, Squamish Indian Band
+Municiplty:SC, Central Saanich
+Municiplty:SI, Sidney
+Municiplty:SJ, Fort St John
+Municiplty:SL, Slocan
+Municiplty:SM, Smithers
+Municiplty:SN, North Saanich
+Municiplty:SP, Dawson Creek - South Peace
+Municiplty:SQ, Dist. of Squamish
+Municiplty:SR, Sechelt Rural
+Municiplty:ST, Stewart
+Municiplty:SU, Surrey
+Municiplty:SW, Sayward
+Municiplty:T1, Trail
+Municiplty:T2, Tumbler Ridge
+Municiplty:TA, Taylor
+Municiplty:TE, Telkwa
+Municiplty:TR, Terrace Rural
+Municiplty:TS, Trail - Rural
+Municiplty:TU, Tofino/Ucuelet
+Municiplty:TZ, Tahsis/Zeballos
+Municiplty:UL, University Lands
+Municiplty:UP, Prince Rupert Rural
+Municiplty:V1, Vanderhoof
+Municiplty:V2, Vanderhoof Rural
+Municiplty:VA, City of Vancouver
+Municiplty:VB, Belcarra
+Municiplty:VI, Victoria
+Municiplty:VM, Valemount
+Municiplty:VP, Port Clements
+Municiplty:VQ, Village of Queen Charlotte
+Municiplty:VR, View Royal
+Municiplty:VS, Sechelt (Village)
+Municiplty:W1, Williams Lake Rural
+Municiplty:WA, Warfield
+Municiplty:WC, Western Communities
+Municiplty:WH, Whistler
+Municiplty:WL, Williams Lake
+Municiplty:WR, White Rock
+Municiplty:WV, West Vancouver
+RD:BCNREB, BC Northern
+RD:CADREB, Chilliwack
+RD:FVREB, Fraser Valley
+RD:REBGV, Greater Vancouver
+SOrA:F11, Annieville
+SOrA:F12, Nordel
+SOrA:F13, Scottsdale
+SOrA:F14, Sunshine Hills Woods
+SOrA:F21, Bridgeview
+SOrA:F22, Bolivar Heights
+SOrA:F23, Fraser Heights
+SOrA:F24, Royal Heights
+SOrA:F25, Cedar Hills
+SOrA:F26, Whalley
+SOrA:F27, Guildford
+SOrA:F28, Port Kells
+SOrA:F31, Queen Mary Park Surrey
+SOrA:F32, Bear Creek Green Timbers
+SOrA:F34, Fleetwood Tynehead
+SOrA:F36, West Newton
+SOrA:F37, East Newton
+SOrA:F38, Panorama Ridge
+SOrA:F39, Sullivan Station
+SOrA:F41, Cloverdale BC
+SOrA:F42, Serpentine
+SOrA:F43, Clayton
+SOrA:F51, Elgin Chantrell
+SOrA:F52, Sunnyside Park Surrey
+SOrA:F53, Crescent Bch Ocean Pk.
+SOrA:F54, White Rock
+SOrA:F55, King George Corridor
+SOrA:F56, Hazelmere
+SOrA:F57, Grandview Surrey
+SOrA:F58, Morgan Creek
+SOrA:F59, Pacific Douglas
+SOrA:F60, Murrayville
+SOrA:F61, Walnut Grove
+SOrA:F62, County Line Glen Valley
+SOrA:F63, Willoughby Heights
+SOrA:F64, Salmon River
+SOrA:F65, Brookswood Langley
+SOrA:F66, Aldergrove Langley
+SOrA:F67, Campbell Valley
+SOrA:F68, Otter District
+SOrA:F69, Fort Langley
+SOrA:F6A, Langley City
+SOrA:F70, Poplar
+SOrA:F71, Bradner
+SOrA:F72, Matsqui
+SOrA:F73, Sumas Mountain
+SOrA:F74, Abbotsford West
+SOrA:F75, Abbotsford East
+SOrA:F76, Aberdeen
+SOrA:F77, Sumas Prairie
+SOrA:F78, Central Abbotsford
+SOrA:F80, Hatzic
+SOrA:F81, Stave Falls
+SOrA:F82, Steelhead
+SOrA:F83, Mission BC
+SOrA:F84, Durieu
+SOrA:F85, Dewdney Deroche
+SOrA:F86, Lake Errock
+SOrA:F87, Hemlock
+SOrA:F88, Mission-West
+SOrA:F999, FRV Fake SubAreaComm
+SOrA:FOT, FVREB Out of Town
+SOrA:H91, Chilliwack W Young-Well
+SOrA:H92, Chilliwack E Young-Yale
+SOrA:H93, Chilliwack N Yale-Well
+SOrA:H94, Chilliwack Yale Rd West
+SOrA:H95, Little Mountain
+SOrA:H96, Chilliwack Mountain
+SOrA:H97, Fairfield Island
+SOrA:H98, East Chilliwack
+SOrA:H99, Eastern Hillsides
+SOrA:H999, CHI Fake SubAreaComm
+SOrA:H9A, Rosedale Center
+SOrA:H9B, Rosedale Popkum
+SOrA:H9C, Sardis West Vedder Rd
+SOrA:H9D, Sardis East Vedder Rd
+SOrA:H9E, Vedder S Watson-Promontory
+SOrA:H9F, Promontory
+SOrA:H9G, Ryder Lake
+SOrA:H9H, Yarrow
+SOrA:H9I, Majuba Hill
+SOrA:H9J, Greendale Chilliwack
+SOrA:H9K, Cultus Lake
+SOrA:H9L, Columbia Valley
+SOrA:H9M, Chilliwack River Valley
+SOrA:H9N, Agassiz
+SOrA:H9P, Harrison Mills
+SOrA:H9Q, Harrison Hot Springs
+SOrA:H9R, Hope Center
+SOrA:H9S, Hope Laidlaw
+SOrA:H9T, Hope Kawkawa Lake
+SOrA:H9U, Hope Silver Creek
+SOrA:H9V, Hope Sunshine Valley
+SOrA:H9W, Boston Bar - Lytton
+SOrA:H9X, Yale - Dogwood Valley
+SOrA:H9Y, Mt Woodside
+SOrA:H9Z, Lindell Beach
+SOrA:N1003, 103 Mile House
+SOrA:N1008, 108 Ranch
+SOrA:N1070, 70 Mile House
+SOrA:N10BS, Bridge Lake/Sheridan Lake
+SOrA:N10CM, Canim/Mahood Lake
+SOrA:N10DS, Deka Lake / Sulphurous / Hathaway Lakes
+SOrA:N10FG, Forest Grove
+SOrA:N10HL, Horse Lake
+SOrA:N10HM, 100 Mile House - Town
+SOrA:N10HR, 100 Mile House - Rural
+SOrA:N10HW, 100 Mile House - West
+SOrA:N10LB, Lone Butte/Green Lk/Watch Lk
+SOrA:N10LL, Lac la Hache
+SOrA:N2750, 150 Mile House
+SOrA:N27BH, Bella Coola/Hagensborg
+SOrA:N27ED, Esler/Dog Creek
+SOrA:N27HF, Horsefly
+SOrA:N27LA, Lakeside Rural
+SOrA:N27MC, McLeese Lake
+SOrA:N27RE, Williams Lake - Rural East
+SOrA:N27RN, Williams Lake - Rural North
+SOrA:N27RS, Williams Lake - Rural South
+SOrA:N27RW, Williams Lake - Rural West
+SOrA:N27WL, Williams Lake - City
+SOrA:N28BL, Bouchie Lake
+SOrA:N28NE, Quesnel - Rural North
+SOrA:N28QS, Quesnel - South Hills
+SOrA:N28QU, Quesnel - Town
+SOrA:N28RD, Red Bluff/Dragon Lake
+SOrA:N28RS, Quesnel Rural - South
+SOrA:N28WE, Wells/Barkerville
+SOrA:N28WQ, Quesnel - Rural West
+SOrA:N52PR, Prince Rupert - City
+SOrA:N52PT, Port Edward
+SOrA:N52QC, Queen Charlotte - Rural
+SOrA:N52QM, Masset
+SOrA:N52QP, Port Clements
+SOrA:N52RR, Prince Rupert - Rural
+SOrA:N53HO, Houston - Town
+SOrA:N53RU, Houston - Rural
+SOrA:N54HA, Hazelton
+SOrA:N54HT, Telkwa
+SOrA:N54KI, Kitwanga
+SOrA:N54RU, Smithers - Rural
+SOrA:N54SM, Smithers - Town
+SOrA:N55BE, Burns Lake - Rural East
+SOrA:N55BL, Burns Lake - Town
+SOrA:N55BN, Burns Lake - Rural North
+SOrA:N55BS, Burns Lake - Rural South
+SOrA:N55BW, Burns Lake - Rural West
+SOrA:N55FR, South Francois
+SOrA:N55GR, Granisle
+SOrA:N55TO, Topley
+SOrA:N56FL, Fraser Lake
+SOrA:N56FR, Fort Fraser
+SOrA:N56RU, Vanderhoof - Rural
+SOrA:N56VA, Vanderhoof - Town
+SOrA:N57RU, Fort St. James - Rural
+SOrA:N57SJ, Fort St. James - Town
+SOrA:N60HU, Hudsons Hope
+SOrA:N60LA, Lakeshore
+SOrA:N60NE, Fort St. John - City NE
+SOrA:N60NW, Fort St. John - City NW
+SOrA:N60RE, Fort St. John - Rural E 100th
+SOrA:N60RW, Fort St. John - Rural W 100th
+SOrA:N60SE, Fort St. John - City SE
+SOrA:N60SP, Fort St. John - South Peace
+SOrA:N60SW, Fort St. John - City SW
+SOrA:N60TA, Taylor
+SOrA:N64FN, Fort Nelson -Town
+SOrA:N64RM, Fort Nelson - Remote
+SOrA:N64RU, Fort Nelson - Rural
+SOrA:N69MK, Mackenzie -Town
+SOrA:N69ML, McLeod Lake
+SOrA:N69RU, Mackenzie - Rural
+SOrA:N71CA, Carter Light
+SOrA:N71CB, Cranbrook Hill
+SOrA:N71FO, Foothills
+SOrA:N71FR, Fraserview
+SOrA:N71HE, Heritage
+SOrA:N71HG, Highglen
+SOrA:N71HL, Highland Park
+SOrA:N71LA, Lakewood
+SOrA:N71PC, Pinecone
+SOrA:N71PE, Perry
+SOrA:N71PH, Peden Hill
+SOrA:N71PW, Pinewood
+SOrA:N71QU, Quinson
+SOrA:N71SL, Spruceland
+SOrA:N71WW, Westwood
+SOrA:N72AS, Assman
+SOrA:N72CE, Central
+SOrA:N72CO, Connaught
+SOrA:N72CR, Crescents
+SOrA:N72DT, Downtown PG
+SOrA:N72EE, East End
+SOrA:N72MD, Millar Addition
+SOrA:N72NV, Nechako View
+SOrA:N72SE, Seymour
+SOrA:N72SF, South Fort George
+SOrA:N72VB, Van Bow
+SOrA:N72VL, VLA
+SOrA:N73AB, Aberdeen PG
+SOrA:N73BW, Birchwood
+SOrA:N73EM, Emerald
+SOrA:N73ET, Edgewood Terrace
+SOrA:N73HH, Hart Highlands
+SOrA:N73HV, Harper Valley
+SOrA:N73HW, Hart Highway
+SOrA:N73IN, Ingala
+SOrA:N73MA, Mount Alder
+SOrA:N73NC, Nechako Bench
+SOrA:N73NK, North Kelly
+SOrA:N73NM, North Meadows
+SOrA:N73NR, Nechako Ridge
+SOrA:N73OS, Old Summit Lake Road
+SOrA:N73VV, Valleyview
+SOrA:N73WA, West Austin
+SOrA:N74CS, Charella/Starlane
+SOrA:N74GA, Gauthier
+SOrA:N74HA, Haldi
+SOrA:N74JE, Jensen
+SOrA:N74LC, Lower College
+SOrA:N74LF, Lafreniere
+SOrA:N74PA, Parkridge
+SOrA:N74ST, St. Lawrence Heights
+SOrA:N74UC, Upper College
+SOrA:N74WA, Western Acres
+SOrA:N75AP, Airport
+SOrA:N75BC, BCR Industrial
+SOrA:N75DA, Danson
+SOrA:N75NB, North Blackburn
+SOrA:N75SB, South Blackburn
+SOrA:N75SN, Sintich
+SOrA:N76BL, Bear Lake
+SOrA:N76CH, Chief Lake Road
+SOrA:N76HR, Hobby Ranches
+SOrA:N76NE, Ness Lake
+SOrA:N76NU, Nukko Lake
+SOrA:N76RE, Reid Lake
+SOrA:N76SU, Summit Lake
+SOrA:N76SV, Salmon Valley
+SOrA:N77BD, Bednesti
+SOrA:N77BK, Blackwater
+SOrA:N77BV, Beaverley
+SOrA:N77CL, Cluculz Lake
+SOrA:N77IP, Isle Pierre
+SOrA:N77LM, Lower Mud
+SOrA:N77MI, Miworth
+SOrA:N77UM, Upper Mud
+SOrA:N78BH, Buckhorn
+SOrA:N78HI, Hixon
+SOrA:N78PV, Pineview
+SOrA:N78RR, Red Rock/Stoner
+SOrA:N80GI, Giscome/Ferndale
+SOrA:N80HD, Hansard
+SOrA:N80PU, Purden
+SOrA:N80SH, Shelley
+SOrA:N80TL, Tabor Lake
+SOrA:N80UF, Upper Fraser
+SOrA:N80WI, Willow River
+SOrA:N81DC, Dome Creek
+SOrA:N81MB, McBride - Town
+SOrA:N81MW, McBride - Rural West
+SOrA:N81VM, Valemount - Town
+SOrA:N81VS, Valemount - Rural South
+SOrA:N81VW, Valemount - Rural West
+SOrA:N88LL, Lakelse Lake
+SOrA:N88NW, Terrace - Northwest/Rosswood
+SOrA:N88RE, Terrace - Rural East/Cedarvale
+SOrA:N88SC, Stewart/Cassiar
+SOrA:N88SW, Terrace - Rural Southwest
+SOrA:N88TE, Terrace - City
+SOrA:N88TH, Thornhill
+SOrA:N89KI, Kitimat
+SOrA:N90, BCNREB
+SOrA:N90OT, BCNREB Out of Area
+SOrA:N999, BCN Fake SubAreaComm
+SOrA:V999, VAN Fake SubAreaComm
+SOrA:VBDBD, Bowen Island
+SOrA:VBEBE, East Burnaby
+SOrA:VBECR, The Crest
+SOrA:VBEED, Edmonds BE
+SOrA:VBNBP, Brentwood Park
+SOrA:VBNCA, Cariboo
+SOrA:VBNCB, Central BN
+SOrA:VBNCH, Capitol Hill BN
+SOrA:VBNFH, Forest Hills BN
+SOrA:VBNGR, Government Road
+SOrA:VBNLC, Lake City Industrial
+SOrA:VBNMO, Montecito
+SOrA:VBNOK, Oakdale
+SOrA:VBNPC, Parkcrest
+SOrA:VBNSD, Sperling-Duthie
+SOrA:VBNSF, Simon Fraser Univer.
+SOrA:VBNSH, Sullivan Heights
+SOrA:VBNSI, Simon Fraser Hills
+SOrA:VBNVH, Vancouver Heights
+SOrA:VBNWH, Willingdon Heights
+SOrA:VBNWR, Westridge BN
+SOrA:VBSBB, Big Bend
+SOrA:VBSBH, Burnaby Hospital
+SOrA:VBSBK, Buckingham Heights
+SOrA:VBSBL, Burnaby Lake
+SOrA:VBSCP, Central Park BS
+SOrA:VBSDL, Deer Lake
+SOrA:VBSDP, Deer Lake Place
+SOrA:VBSFG, Forest Glen BS
+SOrA:VBSGT, Greentree Village
+SOrA:VBSGV, Garden Village
+SOrA:VBSHG, Highgate
+SOrA:VBSME, Metrotown
+SOrA:VBSOL, Oaklands
+SOrA:VBSSC, Suncrest
+SOrA:VBSSS, South Slope
+SOrA:VBSUD, Upper Deer Lake
+SOrA:VCQBM, Burke Mountain
+SOrA:VCQCC, Central Coquitlam
+SOrA:VCQCE, Coquitlam East
+SOrA:VCQCH, Cape Horn
+SOrA:VCQCS, Chineside
+SOrA:VCQCW, Coquitlam West
+SOrA:VCQCY, Canyon Springs
+SOrA:VCQER, Eagle Ridge CQ
+SOrA:VCQHC, Harbour Chines
+SOrA:VCQHO, Hockaday
+SOrA:VCQHP, Harbour Place
+SOrA:VCQMB, Meadow Brook
+SOrA:VCQML, Maillardville
+SOrA:VCQNC, North Coquitlam
+SOrA:VCQNH, New Horizons
+SOrA:VCQPR, Park Ridge Estates
+SOrA:VCQRP, Ranch Park
+SOrA:VCQRS, River Springs
+SOrA:VCQSC, Scott Creek
+SOrA:VCQSV, Summitt View
+SOrA:VCQUE, Upper Eagle Ridge
+SOrA:VCQWP, Westwood Plateau
+SOrA:VCQWS, Westwood Summit CQ
+SOrA:VISGB, Gabriola Island
+SOrA:VISGL, Galiano Island
+SOrA:VISMA, Mayne Island
+SOrA:VISOT, Islands Other
+SOrA:VISPE, Pender Island
+SOrA:VISSS, Salt Spring Island
+SOrA:VISST, Saturna Island
+SOrA:VLDAI, Annacis Island
+SOrA:VLDDM, Delta Manor
+SOrA:VLDEA, East Delta
+SOrA:VLDHA, Hawthorne
+SOrA:VLDHO, Holly
+SOrA:VLDLA, Ladner Rural
+SOrA:VLDLE, Ladner Elementary
+SOrA:VLDNG, Neilsen Grove
+SOrA:VLDPG, Port Guichon
+SOrA:VLDTB, Tilbury
+SOrA:VLDWI, Westham Island
+SOrA:VMRAL, Albion
+SOrA:VMRCO, Cottonwood MR
+SOrA:VMREC, East Central
+SOrA:VMRNE, Northeast
+SOrA:VMRNO, North Maple Ridge
+SOrA:VMRNW, Northwest Maple Ridge
+SOrA:VMRSV, Silver Valley
+SOrA:VMRSW, Southwest Maple Ridge
+SOrA:VMRTH, Thornhill MR
+SOrA:VMRWB, Websters Corners
+SOrA:VMRWC, West Central
+SOrA:VMRWH, Whonnock
+SOrA:VNVBD, Boulevard
+SOrA:VNVBL, Blueridge NV
+SOrA:VNVBR, Braemar
+SOrA:VNVCA, Capilano NV
+SOrA:VNVCL, Central Lonsdale
+SOrA:VNVCV, Calverhall
+SOrA:VNVCY, Canyon Heights NV
+SOrA:VNVDC, Deep Cove
+SOrA:VNVDE, Delbrook
+SOrA:VNVDO, Dollarton
+SOrA:VNVED, Edgemont
+SOrA:VNVFH, Forest Hills NV
+SOrA:VNVGW, Grouse Woods
+SOrA:VNVHS, Harbourside
+SOrA:VNVIA, Indian Arm
+SOrA:VNVIR, Indian River
+SOrA:VNVLL, Lower Lonsdale
+SOrA:VNVLV, Lynn Valley
+SOrA:VNVLY, Lynnmour
+SOrA:VNVMC, Mosquito Creek
+SOrA:VNVNG, Norgate
+SOrA:VNVNL, Northlands
+SOrA:VNVPH, Pemberton Heights
+SOrA:VNVPN, Pemberton NV
+SOrA:VNVPP, Princess Park
+SOrA:VNVQU, Queensbury
+SOrA:VNVRP, Roche Point
+SOrA:VNVSY, Seymour NV
+SOrA:VNVTE, Tempe
+SOrA:VNVUD, Upper Delbrook
+SOrA:VNVUL, Upper Lonsdale
+SOrA:VNVWL, Westlynn
+SOrA:VNVWP, Windsor Park NV
+SOrA:VNVWS, Woodlands-Sunshine-Cascade
+SOrA:VNVWT, Westlynn Terrace
+SOrA:VNWBR, Brunette
+SOrA:VNWCH, Connaught Heights
+SOrA:VNWDT, Downtown NW
+SOrA:VNWFV, Fraserview NW
+SOrA:VNWGN, GlenBrooke North
+SOrA:VNWMP, Moody Park
+SOrA:VNWNA, North Arm
+SOrA:VNWQB, Queensborough
+SOrA:VNWQP, Queens Park
+SOrA:VNWQY, Quay
+SOrA:VNWSA, Sapperton
+SOrA:VNWTH, The Heights NW
+SOrA:VNWUP, Uptown NW
+SOrA:VNWWE, West End NW
+SOrA:VOTOT, Out of Town
+SOrA:VPEBI, Birken
+SOrA:VPEDE, Devine
+SOrA:VPEDY, D'Arcy
+SOrA:VPEIL, Ivey Lake Estates
+SOrA:VPELL, Lillooet Lake
+SOrA:VPEMC, Mount Currie
+SOrA:VPEOR, Owl Ridge
+SOrA:VPEPC, Poole Creek
+SOrA:VPEPE, Pemberton
+SOrA:VPEPM, Pemberton Meadows
+SOrA:VPEWE, Walkerville Estates
+SOrA:VPICM, Central Meadows
+SOrA:VPIMM, Mid Meadows
+SOrA:VPINM, North Meadows PI
+SOrA:VPISM, South Meadows
+SOrA:VPIWM, West Meadows
+SOrA:VPMAN, Anmore
+SOrA:VPMBL, Belcarra
+SOrA:VPMBS, Barber Street
+SOrA:VPMCP, College Park PM
+SOrA:VPMGL, Glenayre
+SOrA:VPMHM, Heritage Mountain
+SOrA:VPMHW, Heritage Woods PM
+SOrA:VPMIO, Ioco
+SOrA:VPMMM, Mountain Meadows
+SOrA:VPMNS, North Shore Pt Moody
+SOrA:VPMPM, Port Moody Centre
+SOrA:VPQBL, Birchland Manor
+SOrA:VPQCE, Central Pt Coquitlam
+SOrA:VPQCI, Citadel PQ
+SOrA:VPQGL, Glenwood PQ
+SOrA:VPQLM, Lower Mary Hill
+SOrA:VPQLP, Lincoln Park PQ
+SOrA:VPQMH, Mary Hill
+SOrA:VPQOH, Oxford Heights
+SOrA:VPQRD, Riverwood
+SOrA:VPQWA, Woodland Acres PQ
+SOrA:VRI10, Sea Island
+SOrA:VRI11, Bridgeport RI
+SOrA:VRI12, West Cambie
+SOrA:VRI13, East Cambie
+SOrA:VRI20, Terra Nova
+SOrA:VRI21, Riverdale RI
+SOrA:VRI22, Quilchena RI
+SOrA:VRI23, Granville
+SOrA:VRI30, Seafair
+SOrA:VRI31, Boyd Park
+SOrA:VRI32, Lackner
+SOrA:VRI40, Steveston Village
+SOrA:VRI41, Steveston North
+SOrA:VRI42, Steveston South
+SOrA:VRI43, Westwind
+SOrA:VRI50, Woodwards
+SOrA:VRI51, Broadmoor
+SOrA:VRI52, Garden City
+SOrA:VRI53, Saunders
+SOrA:VRI54, South Arm
+SOrA:VRI60, Brighouse
+SOrA:VRI61, Brighouse South
+SOrA:VRI62, McLennan North
+SOrA:VRI70, Gilmore
+SOrA:VRI71, McLennan
+SOrA:VRI72, East Richmond
+SOrA:VRI80, McNair
+SOrA:VRI81, Ironwood
+SOrA:VRI90, Hamilton RI
+SOrA:VSCGB, Gibsons & Area
+SOrA:VSCGM, Gambier Island
+SOrA:VSCHB, Halfmn Bay Secret Cv Redroofs
+SOrA:VSCKE, Keats Island
+SOrA:VSCNE, Nelson Island
+SOrA:VSCPE, Pender Harbour Egmont
+SOrA:VSCRC, Roberts Creek
+SOrA:VSCSD, Sechelt District
+SOrA:VSQBB, Britannia Beach
+SOrA:VSQBC, Brennan Center
+SOrA:VSQBP, Business Park
+SOrA:VSQBR, Brackendale
+SOrA:VSQDT, Downtown SQ
+SOrA:VSQDV, Dentville
+SOrA:VSQGE, Garibaldi Estates
+SOrA:VSQGH, Garibaldi Highlands
+SOrA:VSQHH, Hospital Hill
+SOrA:VSQNY, Northyards
+SOrA:VSQPL, Plateau
+SOrA:VSQPV, Paradise Valley
+SOrA:VSQRC, Ring Creek
+SOrA:VSQSR, Squamish Rural
+SOrA:VSQTA, Tantalus
+SOrA:VSQUH, University Highlands
+SOrA:VSQUS, Upper Squamish
+SOrA:VSQVC, Valleycliffe
+SOrA:VTWBB, Boundary Beach
+SOrA:VTWBG, Beach Grove
+SOrA:VTWCD, Cliff Drive
+SOrA:VTWCT, Tsawwassen Central
+SOrA:VTWEB, English Bluff
+SOrA:VTWPH, Pebble Hill
+SOrA:VTWTE, Tsawwassen East
+SOrA:VVECH, Champlain Heights
+SOrA:VVECO, Collingwood VE
+SOrA:VVEDT, Downtown VE
+SOrA:VVEFR, Fraser VE
+SOrA:VVEFV, Fraserview VE
+SOrA:VVEGW, Grandview Woodland
+SOrA:VVEHA, Hastings
+SOrA:VVEKL, Killarney VE
+SOrA:VVEKN, Knight
+SOrA:VVEMN, Main
+SOrA:VVEMP, Mount Pleasant VE
+SOrA:VVERE, Renfrew VE
+SOrA:VVERH, Renfrew Heights
+SOrA:VVESM, South Marine
+SOrA:VVEST, Strathcona
+SOrA:VVESU, Hastings Sunrise
+SOrA:VVESV, South Vancouver
+SOrA:VVEVI, Victoria VE
+SOrA:VVWAR, Arbutus
+SOrA:VVWCA, Cambie
+SOrA:VVWCB, Coal Harbour
+SOrA:VVWDT, Downtown VW
+SOrA:VVWDU, Dunbar
+SOrA:VVWFA, Fairview VW
+SOrA:VVWFC, False Creek
+SOrA:VVWKE, Kerrisdale
+SOrA:VVWKT, Kitsilano
+SOrA:VVWMH, MacKenzie Heights
+SOrA:VVWMP, Mount Pleasant VW
+SOrA:VVWMR, Marpole
+SOrA:VVWOA, Oakridge VW
+SOrA:VVWPG, Point Grey
+SOrA:VVWQU, Quilchena
+SOrA:VVWSC, South Cambie
+SOrA:VVWSG, South Granville
+SOrA:VVWSH, Shaughnessy
+SOrA:VVWSL, Southlands
+SOrA:VVWSW, S.W. Marine
+SOrA:VVWUL, University VW
+SOrA:VVWWE, West End VW
+SOrA:VVWYA, Yaletown
+SOrA:VWHAM, Alpine Meadows
+SOrA:VWHAV, Alta Vista
+SOrA:VWHBA, Bayshores
+SOrA:VWHBE, Benchlands
+SOrA:VWHBH, Blueberry Hill
+SOrA:VWHBR, Brio
+SOrA:VWHBT, Black Tusk - Pinecrest
+SOrA:VWHCA, Callaghan
+SOrA:VWHCC, Cheakamus Crossing
+SOrA:VWHCE, Whistler Cay Estates
+SOrA:VWHCH, Whistler Cay Heights
+SOrA:VWHCR, Whistler Creek
+SOrA:VWHEE, Emerald Estates
+SOrA:VWHFJ, Function Junction
+SOrA:VWHGL, Green Lake Estates
+SOrA:VWHNE, Nesters
+SOrA:VWHNO, Nordic
+SOrA:VWHRW, Rainbow
+SOrA:VWHSC, Spring Creek
+SOrA:VWHSG, Spruce Grove
+SOrA:VWHVI, Whistler Village
+SOrA:VWHWE, Westside
+SOrA:VWHWG, White Gold
+SOrA:VWHWW, WedgeWoods
+SOrA:VWVAL, Altamont
+SOrA:VWVAM, Ambleside
+SOrA:VWVBP, British Properties
+SOrA:VWVBR, Bayridge
+SOrA:VWVCA, Caulfeild
+SOrA:VWVCB, Canterbury WV
+SOrA:VWVCD, Cedardale
+SOrA:VWVCE, Cypress Park Estates
+SOrA:VWVCP, Chelsea Park
+SOrA:VWVCW, Chartwell
+SOrA:VWVCY, Cypress
+SOrA:VWVDR, Deer Ridge WV
+SOrA:VWVDU, Dundarave
+SOrA:VWVEH, Eagle Harbour
+SOrA:VWVER, Eagleridge
+SOrA:VWVFC, Furry Creek
+SOrA:VWVGL, Gleneagles
+SOrA:VWVGM, Glenmore
+SOrA:VWVHB, Horseshoe Bay WV
+SOrA:VWVHS, Howe Sound
+SOrA:VWVLB, Lions Bay
+SOrA:VWVOC, Olde Caulfeild
+SOrA:VWVPA, Passage Island
+SOrA:VWVPO, Porteau Cove
+SOrA:VWVPR, Park Royal
+SOrA:VWVPV, Panorama Village
+SOrA:VWVQU, Queens
+SOrA:VWVRR, Rockridge
+SOrA:VWVSC, Sandy Cove
+SOrA:VWVSH, Sentinel Hill
+SOrA:VWVUC, Upper Caulfeild
+SOrA:VWVWB, West Bay
+SOrA:VWVWC, Whytecliff
+SOrA:VWVWE, Whitby Estates
+SOrA:VWVWH, Westhill
+SOrA:VWVWM, Westmount WV
+SOrA:N88AT, Atlin
+SOrA:N27LI, Likely
+SOrA:VTWTN, Tsawwassen North
+BoardID:F, Fraser Valley Real Estate Board
+BoardID:H, Chilliwack & District Real Estate Board
+BoardID:N, BC Northern Real Estate Board
+BoardID:V, Real Estate Board of Greater Vancouver
+TitletoLnd:FHNST, Freehold NonStrata
+TitletoLnd:FHST, Freehold Strata
+TitletoLnd:FIRST, First Nations Lease
+TitletoLnd:LNPNS, Leasehold not prepaid-NonStrata
+TitletoLnd:LNPS, Leasehold not prepaid-Strata
+TitletoLnd:LPNS, Leasehold prepaid-NonStrata
+TitletoLnd:LPS, Leasehold prepaid-Strata
+TitletoLnd:OTHER, Other
+TitletoLnd:SHCOP, Shares in Co-operative
+TitletoLnd:TSHAR, Time Share
+TitletoLnd:UNINT, Undivided Interest
+TitletoLnd:VACOW, Vacation Ownership
+PrDsclYOrN:N, No
+PrDsclYOrN:Y, Yes
+TaxUtlIncl:N, No
+TaxUtlIncl:Y, Yes
+FloodPln:E, Exempt
+FloodPln:N, No
+FloodPln:Y, Yes
+View:N, No
+View:Y, Yes
+Rezone:N, No
+Rezone:U, Not Known
+Rezone:Y, Yes
+BldgPrmtAp:N, No
+BldgPrmtAp:Y, Yes
+SktchAtch:N, No
+SktchAtch:Y, Yes
+InfoPkgAvl:N, No
+InfoPkgAvl:Y, Yes
+Trees:N, No
+Trees:Y, Yes
+PropType:L, Land Only
+PropType:D, Residential Detached
+PropType:A, Residential Attached
+PropType:M, Multifamily
+MeasType:F, Feet
+MeasType:M, Metres
+DevPermit:N, No
+DevPermit:Y, Yes
+LandUse:3PLEX, Triplex
+LandUse:4PLEX, Fourplex
+LandUse:DUPLX, Duplex
+LandUse:HOUSE, House/Single Family
+LandUse:MIXED, Mixed
+LandUse:OTHER, Other
+LandUse:RECRE, Recreational
+ALR:N, No
+ALR:Y_ALR, Yes - Agricultural Land Reserve
+ALR:Y_FLR, Yes - Forest Land Reserve
+SanitrySwr:ATLOT, At Lot Line
+SanitrySwr:AVAIL, Available
+SanitrySwr:COMM, Community
+SanitrySwr:LAGN, Lagoon
+SanitrySwr:NEAR, Nearby
+SanitrySwr:NONE, None
+SanitrySwr:SEPT, Septic
+SanitrySwr:UNKNW, Unknown
+StormSwr:ATLOT, At Lot Line
+StormSwr:AVAIL, Available
+StormSwr:NEAR, Nearby
+StormSwr:NONE, None
+Electricty:ATLOT, At Lot Line
+Electricty:AVAIL, Available
+Electricty:NEAR, Nearby
+Electricty:NONE, None Available
+NaturalGas:ATLOT, At Lot Line
+NaturalGas:AVAIL, Available
+NaturalGas:NEAR, Nearby
+NaturalGas:NONE, Not Available
+PhoneServ:ATLOT, At Lot Line
+PhoneServ:NEAR, Available Nearby
+PhoneServ:NONE, Not Available
+PhoneServ:ONPRP, On Property
+Prospectus:NTREQ, Not Required
+Prospectus:OTHER, Other (See Remarks)
+Prospectus:PRODE, Available Through Developers
+Prospectus:PROLB, Available Through L.B.
+BldgPlans:AVAIL, Available
+BldgPlans:MAND, Mandatory
+BldgPlans:NAVA, Not Available
+PercTstAvl:N, No
+PercTstAvl:Y, Yes
+Fencing:NONE, None
+Fencing:OTHER, Other
+Fencing:RAIL, Rail
+Fencing:WIRE, Wire
+AccestoPrp:ALLOW, Allowed Access
+AccestoPrp:LANE, Lane Access
+AccestoPrp:MIXED, Mixed
+AccestoPrp:NONE, No Access
+AccestoPrp:ROAD, Road Access
+AccestoPrp:WATER, Water Access
+WtrSupply:CISTN, Cistern
+WtrSupply:COMMU, Community
+WtrSupply:DWELL, Well - Drilled
+WtrSupply:MUNIC, City/Municipal
+WtrSupply:NONE, None
+WtrSupply:OLIC, Other-Licensed
+WtrSupply:OTHER, Other
+WtrSupply:SANDP, Sandpoint
+WtrSupply:SWELL, Well - Shallow
+FrntDrxpsr:973, North
+FrntDrxpsr:974, South
+FrntDrxpsr:975, East
+FrntDrxpsr:976, West
+FrntDrxpsr:977, Northeast
+FrntDrxpsr:978, Northwest
+FrntDrxpsr:979, Southeast
+FrntDrxpsr:980, Southwest
+SlrsIntrst:981, Assign. of Contract
+SlrsIntrst:982, Committee/Trustee
+SlrsIntrst:983, Contractual Interest
+SlrsIntrst:984, Court Ordered Sale
+SlrsIntrst:985, Estate Sale
+SlrsIntrst:986, Option
+SlrsIntrst:987, Power of Attorney
+SlrsIntrst:988, Registered Owner
+CableServc:989, At Lot Line
+CableServc:990, On Property
+CableServc:991, Available Nearby
+CableServc:992, Not Available
+PrkngAccss:993, Front
+PrkngAccss:994, Lane
+PrkngAccss:995, Rear
+PrkngAccss:996, Side
+Restrictns:997, Air Space
+Restrictns:998, Building
+Restrictns:999, Development
+Restrictns:1000, Encroachment
+Restrictns:1001, Engineered Foundation Req
+Restrictns:1002, Environmental
+Restrictns:1003, Floor Space Ratio
+Restrictns:1004, Heritage Site
+Restrictns:1005, Land Use Contract
+Restrictns:1006, Mandatory Building Scheme
+Restrictns:1007, Mineral Claims
+Restrictns:1008, Nature Conservancy
+Restrictns:1009, Right of Way
+Restrictns:1010, Easement
+Restrictns:1011, Restrictive Covenant
+Restrictns:1012, Rd Access Agreement
+Restrictns:1013, Subj. to Final Registratn
+Restrictns:1014, Subj. to Final Approval
+Restrictns:1015, Subj. to Latecmrs Agrmnts
+Restrictns:1016, Timber Seal
+Restrictns:1017, Other
+Restrictns:1018, None
+SitInflncs:1019, Adult Oriented
+SitInflncs:1020, Central Location
+SitInflncs:1021, Cleared
+SitInflncs:1022, Cul-de-Sac
+SitInflncs:1023, Gated Complex
+SitInflncs:1024, Golf Course Dev.
+SitInflncs:1025, Golf Course Nearby
+SitInflncs:1026, Gravel Road
+SitInflncs:1027, Greenbelt
+SitInflncs:1028, Lane Access
+SitInflncs:1029, Marina Nearby
+SitInflncs:1030, Paved Road
+SitInflncs:1031, Private Setting
+SitInflncs:1032, Private Yard
+SitInflncs:1033, Recreation Nearby
+SitInflncs:1034, Retirement Community
+SitInflncs:1035, Rural Setting
+SitInflncs:1036, Shopping Nearby
+SitInflncs:1037, Ski Hill Nearby
+SitInflncs:1038, Treed
+SitInflncs:1039, Waterfront Property
+SitInflncs:1580, Managed Forest Land
+VOWIncl:N, No
+VOWIncl:Y, Yes
+VOWAddr:N, No
+VOWAddr:Y, Yes
+INOK:0, Yes
+INOK:1, No
+INOK:2, Yes Without Address

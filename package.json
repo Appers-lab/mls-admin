@@ -1,0 +1,12 @@
+{
+  "name": "@local/mls-ct",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@pinglue/toolbox": "link:../@pinglue/toolbox",
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0",
+    "mongodb": "^3.6.4"
+  }
+}

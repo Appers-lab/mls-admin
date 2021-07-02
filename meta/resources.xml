@@ -1,0 +1,10 @@
+<RETS ReplyCode="0" ReplyText="Operation Successful">
+<METADATA-RESOURCE Date="2020-12-02T12:20:55.9Z" Version="20.12.3620">
+<COLUMNS>	ResourceID	StandardName	VisibleName	Description	KeyField	ClassCount	ClassVersion	ClassDate	ObjectVersion	ObjectDate	SearchHelpVersion	SearchHelpDate	EditMaskVersion	EditMaskDate	LookupVersion	LookupDate	UpdateHelpVersion	UpdateHelpDate	ValidationExpressionVersion	ValidationExpressionDate	ValidationLookupVersion	ValidationLookupDate	ValidationExternalVersion	ValidationExternalDate	</COLUMNS>
+<DATA>	Property	Property	Property	All Property Listings	L_ListingID	5	20.12.3620	2020-12-02T12:20:55.9Z	15.5.38260	2015-05-26T13:40:31Z	0.0.0		19.3.18984	2019-03-13T04:24:21Z	20.11.36803	2020-11-25T13:23:42.5Z	0.0.0		0.0.0		0.0.0		0.0.0		</DATA>
+<DATA>	Deleted	Deleted	Deleted	Deleted Items	X_Deleted_ID	1	17.10.17986	2017-10-12T11:46:46.7Z	0.0.0		0.0.0		16.3.44471	2016-03-30T21:11:50.6Z	0.0.0		0.0.0		0.0.0		0.0.0		0.0.0		</DATA>
+<DATA>	OpenHouse	OpenHouse	Open House	Open Houses	OH_OpenHouseID	4	20.12.3620	2020-12-02T12:20:55.9Z	0.0.0		0.0.0		19.1.33117	2019-01-22T23:57:54Z	20.11.36807	2020-11-25T13:27:38.8Z	0.0.0		0.0.0		0.0.0		0.0.0		</DATA>
+<DATA>	Media	Media	Media	Media	MED_listing_media_id	4	20.12.3620	2020-12-02T12:20:55.9Z	0.0.0		0.0.0		19.1.33120	2019-01-23T00:00:25Z	20.11.36808	2020-11-25T13:28:35.6Z	0.0.0		0.0.0		0.0.0		0.0.0		</DATA>
+</METADATA-RESOURCE>
+
+</RETS>
